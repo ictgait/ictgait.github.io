@@ -1,0 +1,6 @@
+长春阳光妇科医院会员注册系统
+
+后台admin
+用户名和密码都是admin
+技术支持QQ36562573
+演示地址 http://www.honey111.com/baoming
