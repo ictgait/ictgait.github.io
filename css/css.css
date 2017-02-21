@@ -1,0 +1,55 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size: 9pt;
+	background:#DBDFE8 url(../admin/images/Control/mainback.jpg) repeat-x fixed; margin:10px;
+}
+.a1{
+font-size:9pt; color:#ffffff
+}
+.a2{
+font-size: 9pt; color:#000000
+}
+.a3{
+font-size: 11pt; color:#000000
+}
+
+A:link {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 16px; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 16px; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 9pt; COLOR: #c24730; LINE-HEIGHT: 16px;text-decoration: underline
+}
+TD {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px; FONT-FAMILY: "MS Shell Dlg"
+}
+.jun {
+	LINE-HEIGHT: 22px
+}
+A.a1:link {
+	FONT-SIZE: 9pt; COLOR: #ffffff; LINE-HEIGHT: 16px; TEXT-DECORATION: none
+}
+A.a1:visited {
+	FONT-SIZE: 9pt; COLOR: #ffffff; LINE-HEIGHT: 16px; TEXT-DECORATION: none
+}
+A.a1:hover {
+	FONT-SIZE: 9pt; COLOR: #ffffff; LINE-HEIGHT: 16px
+}
+.button {
+	FONT-SIZE: 12px; FONT-FAMILY: "宋体"
+}
+.cn-blue {
+	FONT-SIZE: 12px; COLOR: #283195; FONT-FAMILY: "宋体"
+}
+
+INPUT{BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 1px; PADDING-LEFT: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 9pt; BORDER-LEFT-COLOR: #cccccc; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #cccccc; PADDING-BOTTOM: 1px; BORDER-TOP-COLOR: #cccccc; PADDING-TOP: 1px; HEIGHT: 18px; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #cccccc}
+textarea {border-width: 1; border-color: #000000; background-color: #ffffff; font-family: 宋体; font-size: 9pt; font-style: bold;}
+select {border-width: 1; border-color: #000000; background-color: #ffffff; font-family: 宋体; font-size: 9pt; font-style: bold;}
+.bor_lr_01{ border-left:1 solid #000000;border-right:1 solid #000000;
+
+}
